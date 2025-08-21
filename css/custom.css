@@ -1,9 +1,13 @@
 /*! Place your custom styles here */
 
 .dmaison-bg-color {
-    background-color: #0c0331!important;
+    background-color: #0c0331 !important;
 }
 
 .dmaison-color {
-    color: #0c0331!important;
+    color: #0c0331 !important;
+}
+
+.gold-color {
+    color: #9f8f5e;
 }
