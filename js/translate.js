@@ -8,14 +8,14 @@
         contactUsDescription: `Looking for exquisite <b>luxury</b> properties or top-tier <b>real estate</b> services in Montenegro? <br><br> Whether you're <b>buying</b>, <b>selling</b>, or <b>renting</b> villas, hotels, or unique residences, we’ve got you covered. Our dedicated experts ensure seamless transactions and tailored solutions to match your specific needs. <b>Contact us today!</b>`,
         location: `Podgorica, Montenegro`,
     },
-    me: {
-        tagline: `otvara vrata vašeg <i class="gold-color">doma iz snova</i>. Od sunčanih primorskih <i class="gold-color">vila</i> do modernih gradskih <i class="gold-color">apartmana</i>, svaka nekretnina je remek-djelo. Iskusite najbolje životne stilove Crne Gore <br> <i class="gold-color"> — za one koji žive izvanrednim životom</i>.`,
-        feature1: `Pronađite luksuznu <b>vilu</b> ili hotel iz snova u Crnoj Gori, dizajnirane da nadmaše vaša očekivanja.`,
-        feature2: `Prodajte svoju nekretninu s lakoćom i povjerenjem uz pomoć naših <span class="highlight">stručnjaka za nekretnine</span>.`,
-        feature3: `Iznajmljujte prekrasne <i class="gold-color">domove</i> ili ekskluzivne prostore prilagođene vašim luksuznim potrebama.`,
-        contactUsHeading: `Kontakt`,
-        contactUsDescription: `Tražite vrhunske <b>luksuzne</b> nekretnine ili usluge <b>nekretnina</b> u Crnoj Gori? <br><br> Bilo da <b>kupujete</b>, <b>prodajete</b> ili <b>iznajmljujete</b> vile, hotele ili jedinstvene rezidencije, tu smo za vas. Naši stručnjaci osiguravaju jednostavne transakcije i rješenja prilagođena vašim potrebama. <b>Kontaktirajte nas danas!</b>`,
-        location: `Podgorica, Crna Gora`,
+    fr: {
+        tagline: `ouvrez les portes d’un <i class="gold-color">art de vivre unique</i>. Des <i class="gold-color">villas côtières</i> baignées de soleil aux <i class="gold-color">appartements urbains</i> élégants, chaque résidence est une œuvre d’exception. Découvrez l’<i class="gold-color">élégance suprême</i> du Monténégro <i class="gold-color">— un privilège pour ceux qui vivent l’exception</i>.`,
+        feature1: `Trouvez votre <b>villa de luxe de rêve</b> ou hôtel au Monténégro, conçu pour dépasser vos attentes en matière de style de vie.`,
+        feature2: `Vendez votre propriété en toute simplicité et confiance, grâce à nos <span class="highlight">professionnels experts de l'immobilier</span>.`,
+        feature3: `Louez des <i class="gold-color">maisons</i> magnifiques ou des espaces exclusifs adaptés à vos besoins en matière de voyages ou de vie de luxe.`,
+        contactUsHeading: `Contact`,
+        contactUsDescription: `Vous recherchez des propriétés <b>luxueuses</b> ou des services <b>immobiliers haut de gamme</b> au Monténégro? <br><br> Que vous soyez en train d'<b>acheter</b>, de <b>vendre</b> ou de <b>louer</b> des villas, hôtels ou résidences uniques, nous sommes là pour vous. Nos experts dédiés garantissent des transactions fluides et des solutions sur mesure pour répondre à vos besoins spécifiques. <b>Contactez-nous dès aujourd'hui !</b>`,
+        location: `Podgorica, Monténégro`,
     },
     ru: {
         tagline: `oткрывает двери в <i class="gold-color">дом вашей мечты</i>. От солнечных прибрежных <i class="gold-color">вилл</i> до современных городских <i class="gold-color">квартир</i> — каждая недвижимость произведение искусства. Откройте для себя высший уровень жизни в Черногории <br> <i class="gold-color"> — для тех, кто живет за пределами обыденного</i>.`,
