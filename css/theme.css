@@ -2754,7 +2754,7 @@ a {
   color: #e23636;
 }
 .bg--dark {
-  background: #252525;
+  background: #0c0331;
 }
 .bg--dark:not(.nav-bar):not(.bar) {
   color: #ffffff;
@@ -3293,7 +3293,7 @@ form[action*='list-manage.com'] .small-meta {
     display: none;
   }
   .bar.pos-fixed.bg--dark {
-    background: #252525;
+    background: #0c0331;
   }
 }
 @media all and (max-width: 767px) {
@@ -4002,7 +4002,7 @@ section.bg--dark + section.bg--dark {
   padding-top: 0;
 }
 section.bg--dark:last-of-type + footer.bg--dark {
-  background: #1b1b1b;
+  background: #0c0331;
 }
 section.border--bottom:not([data-gradient-bg]) {
   border-bottom: 1px solid #ececec;
@@ -4835,7 +4835,7 @@ section.parallax .row .background-image-holder {
     margin-bottom: 1.85714286em;
   }
   .bar.bg--dark {
-    background: #252525;
+    background: #0c0331;
   }
   .bar.bg--dark .hamburger-toggle i {
     color: #fff;
